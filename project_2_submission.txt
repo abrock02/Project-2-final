@@ -84,5 +84,5 @@ Q82::11.34
 Q83::N
 Q84::N
 Q85::N
-Q86::
-Q87::
+Q86::For the Modified 6 panel, the applied forces at the nodes were -2.584 kips at the pin and roller, then -4.428 kips at nodes 8 and 9, then -4.477 kips at nodes 5 and 7, and finally -4.766 kips at node 1. There was also less members used so it would cost less. The maximum axial force was -29.35 kips. For the Gabled Howe Eight Panel and the Scissor Truss, the applied forces at the pin and roller were -2.242 kips, then at the next three nodes on each sides were -3.435 kips. Finally at the top node there was -3.675 kips. With the Howe Truss though, the maximum axial load was -31.57 kips while the maximum load for the Scissor was -63.14 kips. None of the members yielded in each of the trusses.
+Q87::I think the Modified 6 panel truss should be used because it is easier to build and requires less material, therefore it would be much less costly. It still holds a good amount of loading and does not break under the stress. Since all three trusses did not yield, it would be best to go with the cheapest and most efficient option, which would be the Modified 6 panel. 
